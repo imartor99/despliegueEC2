@@ -1,9 +1,6 @@
 // script.js
 
-/**
- * @fileoverview Lógica para la calculadora de precio final con descuentos e impuestos.
- * @author Tu Nombre de Alumno
- */
+
 
 // ##########################################
 // LÓGICA CORE: FUNCIÓN DE CÁLCULO
